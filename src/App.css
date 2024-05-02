@@ -1,0 +1,7 @@
+.side-header-wrapper {
+  display: flex;
+}
+
+.main-body {
+  padding-left: calc(200px + 20px);
+}
